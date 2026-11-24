@@ -1,0 +1,3 @@
+.hero{background:url('/images/sonar-angaan-palace-hero.png') center center/cover no-repeat}.hero>img{display:none!important}
+@media(min-width:851px){.reference-brand{min-width:199px}.reference-mark{width:178px;overflow:hidden;opacity:1;font:700 9px var(--sans);letter-spacing:.15em;color:#817a71;white-space:nowrap}.reference-copy{top:55.2%}}
+@media(max-width:850px){.hero-copy{display:block!important;opacity:1!important;z-index:2!important;left:7vw!important;right:7vw!important}.hero-copy h1{color:#fff!important;font-size:clamp(48px,14vw,62px)!important;white-space:normal!important}.menu{display:block!important;position:relative;z-index:3}.hero>.scroll{display:flex!important}}
